@@ -1,6 +1,6 @@
 # Screen Time Challenge
 
-Your challenge is to build a simple Screen Time app for Android. The app should provide an overview over which applications the user have spent the most time in today and during the last 7 days, as illustrated in this wireframe:
+Your challenge is to build a simple Screen Time app for Android. The app should provide an overview over which applications the user has spent the most time in today and during the last 7 days, as illustrated in this wireframe:
 
 ![Wireframe](/wireframe.png?raw=true)
 
