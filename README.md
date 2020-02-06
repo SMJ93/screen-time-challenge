@@ -30,3 +30,13 @@ Please submit your work as a pull request to this repository.
 
 * [Native Modules (Android)](https://facebook.github.io/react-native/docs/native-modules-android)
 * [App Usage Statistics API](https://developer.android.com/reference/android/app/usage/package-summary.html)
+
+
+# If I had more time I would:
+
+- Finish off the native API - need to get the app usage back and then convert response to `WriteAbleMap`
+- Check if the user has permission to access usage data, if not redirect the user to the settings screen `Settings.ACTION_USAGE_ACCESS_SETTINGS`
+- Check if the user is using a compatible version of Android to get app usage data - Android 5.0 Lollipop (API Level 21)
+- Type the response from native in JS
+- Handle errors
+- Write Detox tests for flows
